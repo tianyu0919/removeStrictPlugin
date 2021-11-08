@@ -1,0 +1,19 @@
+{
+  "name": "lty-webpack-strict-remove-plugin",
+  "version": "0.0.1",
+  "description": "Strict mode after deleting large packages",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "webpack",
+    "plugin",
+    "use strict",
+    "lty"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "author": "guisu",
+  "dependencies": {}
+}
